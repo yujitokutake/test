@@ -3,5 +3,6 @@ public class Good {
         System.out.println("Good!");
 	System.out.println("Good!!");
 	System.out.println("No Good!");
+	System.out.println("So Bad!!");
     }
 }
